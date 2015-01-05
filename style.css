@@ -52,7 +52,7 @@ body {
 
 /*Header*/
 #header{
-	height:392;
+	height:392px;
 	background:url(images/logo.png) no-repeat center top;
 	clear: both;
 }
